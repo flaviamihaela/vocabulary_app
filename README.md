@@ -11,7 +11,7 @@ The developed platform uses the following components:
 - Firebase
 - An android app
 - Docker
-- Google CLoud's Container Registry
+- Google Cloud's Container Registry
 - Google Cloud's Compute Engine
 - Big Query
 - Google's Data Studio
